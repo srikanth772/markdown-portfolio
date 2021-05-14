@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*VNR Butta Ctting*
+_This is textile industry_
+
+**we are providing the textile service in this company**
+
+
+_Name **srikanth** is software developer_
